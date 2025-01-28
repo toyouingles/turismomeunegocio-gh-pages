@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://turismomeunegocio.com.br/sitemap.xml
